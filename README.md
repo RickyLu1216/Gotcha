@@ -177,7 +177,7 @@ Here is our final project poster, showcasing our introduction and testing result
 
 [**Ricky Chen**](https://github.com/Rickitiffi) - Non-code contributor (poster making, triage, and viewing)
 
-**Matthew Chen**
+[**Matthew Chen**](https://github.com/MinyenChen)**
 
 **Kaitlin Huang**
 

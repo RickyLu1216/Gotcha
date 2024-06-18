@@ -171,11 +171,11 @@ Here is our final project poster, showcasing our introduction and testing result
 
 # Contributors
 
-[**Ricky Lu**](https://github.com/RickyLu1216) - Project Lead (Project development, coding, and testing.)
+[**Ricky Lu**](https://github.com/RickyLu1216) - Project Lead (project development, coding, and testing)
 
 **Mario Chen**
 
-**Ricky Chen**
+[**Ricky Chen**](https://github.com/Rickitiffi) - Non-code contributor (poster making, triage, and viewing)
 
 **Matthew Chen**
 

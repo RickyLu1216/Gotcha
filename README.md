@@ -175,11 +175,11 @@ Here is our final project poster, showcasing our introduction and testing result
 
 [**Mario Chen**](
 
-[**Ricky Chen**](https://github.com/Rickitiffi) - Non-code contributor (poster making, triage, and viewing)
-
 [**Matthew Chen**](https://github.com/MinyenChen) -
 
-[**Kaitlin Huang**](
+[**Ricky Chen**](https://github.com/Rickitiffi) - Non-code contributor (poster making, triage, and viewing)
+
+[**Kaitlin Huang**](https://github.com/Kaitlin819) -Non-code contributor (poster making, triage, and viewing)
 
 # Acknowledgments
 

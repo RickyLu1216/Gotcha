@@ -175,7 +175,7 @@ Here is our final project poster, showcasing our introduction and testing result
 
 [**Mario Chen**](
 
-[**Matthew Chen**](https://github.com/MinyenChen) -code contributer（Debug,error resolving,coding）
+[**Matthew Chen**](https://github.com/MinyenChen) -code contributer（Debug,error solving,coding）
 
 [**Ricky Chen**](https://github.com/Rickitiffi) - Non-code contributor (poster making, triage, and viewing)
 

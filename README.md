@@ -173,13 +173,13 @@ Here is our final project poster, showcasing our introduction and testing result
 
 [**Ricky Lu**](https://github.com/RickyLu1216) - Project Lead (project development, coding, and testing)
 
-[**Mario Chen**](
+[**Matthew Chen**](https://github.com/MinyenChen) - Code contributor (debug and error solving)
 
-[**Matthew Chen**](https://github.com/MinyenChen) -code contributer（Debug,error solving,coding）
+[**Mario Chen**](https://github.com/markylo) - Non-code contributor (poster making, triage, and viewing)
 
 [**Ricky Chen**](https://github.com/Rickitiffi) - Non-code contributor (poster making, triage, and viewing)
 
-[**Kaitlin Huang**](https://github.com/Kaitlin819) -Non-code contributor (poster making, triage, and viewing)
+[**Kaitlin Huang**](https://github.com/Kaitlin819) - Non-code contributor (poster making, triage, and viewing)
 
 # Acknowledgments
 

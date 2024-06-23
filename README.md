@@ -189,7 +189,7 @@ We would like to thank:
 
 - **Data Providers** for supplying the images used in the face database.
 
-- Special thanks to our teaching assistant, **黃柏銓 Ian**, for his invaluable support and guidance throughout this project. We greatly appreciate his insights and assistance.
+- Teaching assistant, **黃柏銓 Ian**, for his invaluable support and guidance throughout this project. We greatly appreciate his insights and assistance.
 
 # References
 
